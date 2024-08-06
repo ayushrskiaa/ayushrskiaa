@@ -1,6 +1,6 @@
 
 ## 🌐 Socials:
-[![LinkedIn]([https://www.linkedin.com/in/ayush-kumar-792916257/](https://www.linkedin.com/in/ayush-kumar-792916257/))
+[![LinkedIn](https://www.linkedin.com/in/ayush-kumar-792916257/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayush_rskiaa) 
 
 

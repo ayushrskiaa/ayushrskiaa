@@ -7,6 +7,7 @@
 # 📊 GitHub Stats:
 ![ayushrskiaa's Stats](https://github-readme-stats.vercel.app/api?username=ayushrskiaa&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
 ![ayushrskiaa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushrskiaa&theme=highcontrast&hide_border=true)
+
 ![ayushrskiaa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushrskiaa&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ayushrskiaa&theme=radical&no-frame=false&no-bg=false&margin-w=4)

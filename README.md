@@ -19,6 +19,36 @@ Hi there! 👋 I'm **Ayush Kumar**, a pre-final year undergraduate at **IIIT Man
 </p>
 
 ---
+## 💻 Tech Stack
+
+### 👨‍💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+### 🌐 Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
+
+### 🔧 Backend & DB
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+
+---
 
 ## 💼 Experience
 
@@ -55,48 +85,10 @@ Hi there! 👋 I'm **Ayush Kumar**, a pre-final year undergraduate at **IIIT Man
 - 🎓 **Bachelor of Technology (B.Tech)**  
   *Electronics and Communication Engineering*  
   Indian Institute of Information Technology, Manipur  
-  *Nov 2022 – Present* | **CGPA: 8.03**
-
-- 🏫 **Higher Secondary Education**  
-  JHS Musepur  
-  *May 2019 – May 2021* | **Percentage: 87.2%**
-
-- 🏫 **Secondary Education**  
-  JHS Musepur  
-  *Apr 2019* | **Percentage: 87.8%**
+  *Nov 2022 – Present* 
 
 ---
 
-## 💻 Tech Stack
-
-### 👨‍💻 Languages
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-### 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
-
-### 🔧 Backend & DB
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
-
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-
----
 
 ## 📈 GitHub Stats
 
@@ -118,19 +110,7 @@ Hi there! 👋 I'm **Ayush Kumar**, a pre-final year undergraduate at **IIIT Man
 
 ---
 
-## 🏆 Achievements
 
-- 🧠 **Global Rank 1126** – LeetCode Weekly Contest 428  
-- ✅ Solved **300+ problems on LeetCode** and **150+ on GFG**  
-- 🥇 **Cluster Finalist** – Tata Crucible Campus Quiz 2024  
-
----
-
-## 📜 Certifications
-
-- 📘 *The Joy of Computing Using Python – NPTEL (IIT Ropar)*
-
----
 
 
 

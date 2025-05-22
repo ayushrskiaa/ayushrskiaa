@@ -1,6 +1,3 @@
-<!-- HEADER / BANNER (Optional Custom Image) -->
-<!-- ![Banner](https://your-banner-link.com/banner.png) -->
-
 <h1 align="center">✨ Ayush Kumar ✨</h1>
 <h3 align="center">Full-Stack Web Developer | DSA Enthusiast | B.Tech @ IIIT Manipur</h3>
 
@@ -8,7 +5,7 @@
 
 ## 💫 About Me
 
-Hi there! 👋 I'm **Ayush Kumar**, a pre-final year undergraduate at **IIIT Manipur**. I'm deeply passionate about **Full-Stack Web Development** and **Data Structures & Algorithms**. I love building intuitive UIs, solving complex problems, and working on projects that make a real-world impact. I'm constantly learning and looking for opportunities to grow and contribute. 🚀
+Hi there! 👋 I'm **Ayush Kumar**, a pre-final year undergraduate at **IIIT Manipur**. I'm deeply passionate about **Full-Stack Web Development** and **Data Structures & Algorithms**. I love building intuitive UIs, solving complex problems, and working on projects that make a real-world impact. 🚀
 
 ---
 
@@ -25,44 +22,52 @@ Hi there! 👋 I'm **Ayush Kumar**, a pre-final year undergraduate at **IIIT Man
 
 ## 💼 Experience
 
-- 🚀 **ISRO – NARL (Intern)**  
-  *Nov 2024 – Jan 2025*  
-  Radar-based computer vision project for atmospheric research.
+- 🚀 **Indian Space Research Organisation (ISRO – NARL)** – *Intern*  
+  *Nov 2024 – Jan 2025, Gadanki, Andhra Pradesh*  
+  Worked on a radar-based computer vision project for atmospheric research. Focused on modernizing data extraction from plotted graphs and analyzing atmospheric changes using radar data.
 
-- 🧩 **DataPlay (UI/UX Intern)**  
-  *Oct 2024 – Nov 2024*  
-  Designed wireframes, improved UX/UI flow, enhanced site visuals.
+- 🧠 **DataPlay** – *UI/UX Design Intern*  
+  *Oct 2024 – Nov 2024, Remote*  
+  Contributed to user research, created wireframes and interactive prototypes, and improved the Dataplay website’s overall design and usability.
 
-- 🌍 **GirlScript Summer of Code (Contributor)**  
-  *May 2024 – Aug 2024*  
-  Top 1% contributor in open-source web dev projects (Rank: 270/27,000).
+- 🌍 **GirlScript Summer of Code** – *Open Source Contributor*  
+  *May 2024 – Aug 2024, Remote*  
+  Contributed to multiple web development open-source projects.  
+  **Achievement:** Secured **270th rank** among over **27,000** participants.
 
 ---
 
 ## 🚀 Projects
 
-| Project | Stack | Description |
-|--------|-------|-------------|
-| 🔥 [**Food Ordering Website**](https://restaurant-reservation-tau.vercel.app/) | MERN | Dine-in & delivery platform with history tracking |
-| 🏨 [**Hotel Booking UI**](https://nature-s-heaven.vercel.app/) | React + Tailwind | Responsive hotel room search and preview UI |
-| 📰 [**TrendsAffair**](https://github.com/ayushrskiaa/TrendsAffair) | React + API | Real-time news aggregator with category filters |
+- 🔥 [**Food Ordering Website**](https://restaurant-reservation-tau.vercel.app/) – MERN Stack  
+  A restaurant platform enabling customers to explore menus, place online/offline orders, and view order history using their phone number.
+
+- 🏨 [**Hotel Booking Website UI**](https://nature-s-heaven.vercel.app/) – React + Tailwind CSS  
+  Designed a responsive hotel booking interface allowing users to browse hotels and search by name/location.
+
+- 📰 [**TrendsAffair News Website**](https://github.com/ayushrskiaa/TrendsAffair) – React + News API  
+  Real-time news updates via a clean, responsive UI, categorized for better readability and user experience.
 
 ---
 
 ## 🎓 Education
 
-- 🎓 **B.Tech, ECE – Indian Institute of Information Technology Senapati, Manipur**  
-  *2022 – Present | CGPA: 8.03*
+- 🎓 **Bachelor of Technology (B.Tech)**  
+  *Electronics and Communication Engineering*  
+  Indian Institute of Information Technology, Manipur  
+  *Nov 2022 – Present* | **CGPA: 8.03**
 
-- 🏫 **JHS Musepur – Higher Secondary (2021)**  
-  *Percentage: 87.2%*
+- 🏫 **Higher Secondary Education**  
+  JHS Musepur  
+  *May 2019 – May 2021* | **Percentage: 87.2%**
 
-- 🏫 **JHS Musepur – Secondary (2019)**  
-  *Percentage: 87.8%*
+- 🏫 **Secondary Education**  
+  JHS Musepur  
+  *Apr 2019* | **Percentage: 87.8%**
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
 ### 👨‍💻 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -105,7 +110,7 @@ Hi there! 👋 I'm **Ayush Kumar**, a pre-final year undergraduate at **IIIT Man
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td colspan="50" align="center">
       <img src="https://nirzak-streak-stats.vercel.app/?user=ayushrskiaa&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
     </td>
   </tr>
@@ -127,9 +132,7 @@ Hi there! 👋 I'm **Ayush Kumar**, a pre-final year undergraduate at **IIIT Man
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ayushrskiaa&icon=9&color=12" alt="Profile Visit Counter"/>
-</p>
+
 
 <p align="center">
   <a href="https://codetime.dev">

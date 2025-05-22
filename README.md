@@ -51,7 +51,7 @@ Hi there! 👋 I'm **Ayush Kumar**, a pre-final year undergraduate at **IIIT Man
 
 ## 🎓 Education
 
-- 🎓 **B.Tech, Electronics & Communication Eng. – IIIT Manipur**  
+- 🎓 **B.Tech, ECE – Indian Institute of Information Technology Senapati, Manipur**  
   *2022 – Present | CGPA: 8.03*
 
 - 🏫 **JHS Musepur – Higher Secondary (2021)**  

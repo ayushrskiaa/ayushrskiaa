@@ -87,9 +87,21 @@ Hi there! 👋 I'm **Ayush Kumar**, a pre-final year undergraduate student at II
 
 ## 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=ayushrskiaa&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=ayushrskiaa&theme=tokyonight&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushrskiaa&theme=tokyonight&hide_border=false&layout=compact)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ayushrskiaa&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Ayush's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushrskiaa&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=ayushrskiaa&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 ---
 

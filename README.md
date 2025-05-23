@@ -51,7 +51,9 @@ Hi there! 👋 I'm **Ayush Kumar**, a pre-final year undergraduate at **IIIT Man
 ---
 
 ## 💼 Experience
-
+- 🧠 **Zener Maritime Solutions** – *SDE Intern*  
+  *May 2025 – Current, Remote*
+  
 - 🚀 **Indian Space Research Organisation (ISRO – NARL)** – *Intern*  
   *Nov 2024 – Jan 2025, Gadanki, Andhra Pradesh*  
   Worked on a radar-based computer vision project for atmospheric research. Focused on modernizing data extraction from plotted graphs and analyzing atmospheric changes using radar data.

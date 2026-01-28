@@ -49,7 +49,13 @@ Hi there! 👋 I'm **Ayush Kumar**, a pre-final year undergraduate at **IIIT Man
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 
 ---
+![GitHub Timeline](https://www.githubtimeline.com/api/embed/svg/YOUR_LICENSE_KEY?view=active&theme=cherry-blossom)
 
+<!-- Optional parameters:
+  - view: range | first | active (default: range)
+  - theme: light | dark | skyline | hacker | edgerunner | wicked | cherry-blossom | deep-waters | forest | neon-purple | grayscale | retro (default: light) 
+  - width: 400-1200 (default: 800)
+-->
 ## 💼 Experience
 - 🧠 **Zener Maritime Solutions** – *SDE Intern*  
   *May 2025 – Current, Remote*

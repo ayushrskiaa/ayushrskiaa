@@ -7,7 +7,6 @@
 
 Hi there! 👋 I'm **Ayush Kumar**, a pre-final year undergraduate at **IIIT Manipur**. I'm deeply passionate about **Full-Stack Web Development** and **Data Structures & Algorithms**. I love building intuitive UIs, solving complex problems, and working on projects that make a real-world impact. 🚀
 
----
 
 ## 🌐 Let's Connect
 
@@ -15,10 +14,12 @@ Hi there! 👋 I'm **Ayush Kumar**, a pre-final year undergraduate at **IIIT Man
   <a href="https://www.linkedin.com/in/ayush-kumar-iiitm"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/ayushrskiaa"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://leetcode.com/u/ayushrskiaa/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.codechef.com/users/local_poem_16">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
   <a href="https://www.geeksforgeeks.org/user/iiitiaxjcx/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 </p>
 
----
 ## 💻 Tech Stack
 
 ### 👨‍💻 Languages

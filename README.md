@@ -122,9 +122,9 @@ Pre-final year undergraduate at <b>IIIT Manipur</b>, passionate about building <
 </td>
 
 <!-- PROJECTS -->
-<td width="260" valign="top" align="center">
+<!-- <td width="260" valign="top" align="center"> -->
 
-<h3>🚀 Featured Projects</h3>
+<!-- <h3>🚀 Featured Projects</h3>
 <br>
 
 <a href="#-featured-projects">
@@ -151,7 +151,7 @@ Pre-final year undergraduate at <b>IIIT Manipur</b>, passionate about building <
   <a href="https://github.com/ayushrskiaa/TrendsAffair">View →</a>
 </p>
 
-</td>
+</td> -->
 
 <!-- LEARNING & GOALS -->
 <td width="260" valign="top" align="center">

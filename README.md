@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Ayush%20Kumar&fontSize=70&animation=twinkling" alt="Ayush Kumar profile header" />
 </p>
 
-<!-- Title -->
 <h3 align="center">
     <samp>
         &gt; Hey There!, I am
@@ -26,33 +25,27 @@
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHl0ZWxhN3hzYzEwdGxvNXg1YW94dGRxNjAxaWJ3OWx3MGQ5cGY1OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QTfaBIGirse4/giphy.gif" width="450" alt="Animated web development visual">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHl0ZWxhN3hzYzEwdGxvNXg1YW94dGRxNjAxaWJ3OWx3MGQ5cGY1OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QTfaBIGirse4/giphy.gif" width="450" alt="Animated web development visual">
 </p>
 
-<!-- Divider -->
 <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg" alt="divider" />
 
-<!-- System Access -->
-<p align="center">
-  <h2>🗂️ Quick Navigation</h2>
-</p>
+<h2 align="center">🗂️ Quick Navigation</h2>
 
 <p align="center">
   <a href="#-technologies">
-    <img width="32%" src="https://img.shields.io/badge/💻%20Technologies-View%20Stack-36BCF7?style=for-the-badge" alt="Technologies" />
+    <img width="30%" src="https://img.shields.io/badge/💻%20Technologies-View%20Stack-36BCF7?style=for-the-badge" alt="Technologies" />
   </a>
   <a href="#-featured-projects">
-    <img width="32%" src="https://img.shields.io/badge/🚀%20Projects-View%20Work-36BCF7?style=for-the-badge" alt="Projects" />
+    <img width="30%" src="https://img.shields.io/badge/🚀%20Projects-View%20Work-36BCF7?style=for-the-badge" alt="Projects" />
   </a>
   <a href="#-experience">
-    <img width="32%" src="https://img.shields.io/badge/💼%20Experience-View%20Journey-36BCF7?style=for-the-badge" alt="Experience" />
+    <img width="30%" src="https://img.shields.io/badge/💼%20Experience-View%20Journey-36BCF7?style=for-the-badge" alt="Experience" />
   </a>
 </p>
 
-<!-- Divider -->
 <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg" alt="divider" />
 
-<!-- About Section -->
 <h2 align="center">🎯 About Me</h2>
 
 <p align="center">
@@ -60,101 +53,94 @@ Pre-final year undergraduate at <b>IIIT Manipur</b>, passionate about building <
 </p>
 
 <p align="center">
-<b>Core Expertise:</b>
+<b>Core Expertise:</b><br><br>
+🎨 <b>Frontend</b> - React, Next.js, Modern UI/UX<br>
+⚙️ <b>Backend</b> - Node.js, System Design, Databases<br>
+🏗️ <b>DevOps</b> - Docker, AWS, CI/CD
 </p>
 
-<p align="center">
-🎨 <b>Frontend</b> - React, Next.js, Modern UI/UX | ⚙️ <b>Backend</b> - Node.js, System Design, Databases | 🏗️ <b>DevOps</b> - Docker, AWS, CI/CD
-</p>
-
-<!-- Divider -->
 <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg" alt="divider" />
 
-# 🛠 Technologies, Projects, and Experience
+<h1 align="center">🛠 Technologies, Projects & Focus</h1>
 
-<table border="0" cellspacing="10" cellpadding="0">
+<table border="0" cellspacing="20" cellpadding="0" align="center" width="100%">
 <tr>
 
-<!-- LEFT: TOOLS -->
-<td width="420" valign="top" align="center">
+<!-- LEFT: TECHNOLOGIES -->
+<td width="33%" valign="top" align="center">
 
 <h3>💻 Technologies</h3>
 <br>
 
-<table align="center" cellspacing="0" cellpadding="6">
+<table align="center" cellspacing="0" cellpadding="8" border="0">
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="32"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="32"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="32"/></td>
   </tr>
   <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="32"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="32"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="32"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="32"/></td>
+  </tr>
+  <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="32"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="32"/></td>
-  </tr>
-  <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="32"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32"/></td>
   </tr>
   <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="32"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32"/></td>
+  </tr>
+  <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="32"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="32"/></td>
-  </tr>
-  <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="32"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="32"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32"/></td>
   </tr>
 </table>
 
 </td>
 
-<!-- PROJECTS -->
-<!-- <td width="260" valign="top" align="center"> -->
+<!-- MIDDLE: PROJECTS -->
+<td width="33%" valign="top" align="center">
 
-<!-- <h3>🚀 Featured Projects</h3>
+<h3>🚀 Featured Projects</h3>
 <br>
 
-<a href="#-featured-projects">
-  <img src="https://img.shields.io/badge/View%20All%20Projects-36BCF7?style=for-the-badge&logoColor=white" width="220" alt="Projects navigation">
-</a>
-
-<br><br>
-
-<p align="center">
+<p align="center" style="margin-bottom: 12px;">
   <b>🍔 Restaurant Management</b><br>
-  Full-stack MERN<br>
+  <small>Full-stack MERN</small><br>
   <a href="https://restaurant-reservation-tau.vercel.app/">View →</a>
 </p>
 
-<p align="center">
+<p align="center" style="margin-bottom: 12px;">
   <b>🏨 Hotel Booking UI</b><br>
-  React + Tailwind<br>
+  <small>React + Tailwind</small><br>
   <a href="https://nature-s-heaven.vercel.app/">View →</a>
 </p>
 
-<p align="center">
+<p align="center" style="margin-bottom: 12px;">
   <b>📰 News Platform</b><br>
-  React + News API<br>
+  <small>React + News API</small><br>
   <a href="https://github.com/ayushrskiaa/TrendsAffair">View →</a>
 </p>
 
-</td> -->
+<p align="center">
+  <a href="https://github.com/ayushrskiaa?tab=repositories">
+    <img src="https://img.shields.io/badge/See%20All%20Projects-36BCF7?style=for-the-badge" alt="All projects" />
+  </a>
+</p>
 
-<!-- LEARNING & GOALS -->
-<td width="420" valign="top" align="center">
+</td>
+
+<!-- RIGHT: FOCUS -->
+<td width="33%" valign="top" align="center">
 
 <h3>📚 Current Focus</h3>
 <br>
@@ -166,7 +152,7 @@ Pre-final year undergraduate at <b>IIIT Manipur</b>, passionate about building <
   ML Infrastructure<br>
 </p>
 
-<p align="center">
+<p align="center" style="margin-top: 16px;">
   <b>🎯 Goals</b><br>
   Master production-scale apps<br>
   Contribute to open source<br>
@@ -178,10 +164,9 @@ Pre-final year undergraduate at <b>IIIT Manipur</b>, passionate about building <
 </tr>
 </table>
 
-<!-- Divider -->
 <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" alt="divider" />
 
-## 📊 Vital Statistics
+<h2 align="center">📊 Vital Statistics</h2>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushrskiaa&theme=radical" alt="GitHub Streak" />
@@ -195,56 +180,40 @@ Pre-final year undergraduate at <b>IIIT Manipur</b>, passionate about building <
   <img src="https://komarev.com/ghpvc/?username=ayushrskiaa&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Profile Views" />
 </p>
 
-<!-- Divider -->
 <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg" alt="divider" />
 
-<td width="50%" valign="top">
+<h1 align="center">💼 Professional Experience</h1>
 
-### ⚡ More Projects Coming Soon
-**Building & Shipping**
-
-Currently working on advanced projects in:
-- System design challenges
-- Open source contributions
-- Production-scale applications
-
-[🔗 See All](https://github.com/ayushrskiaa?tab=repositories)
-
-</td>
-</tr>
-</table>
-
-<!-- Divider -->
-<img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" alt="divider" />
-
-# 💼 Experience
-
-<table border="0" cellspacing="10" cellpadding="0">
+<table border="0" cellspacing="20" cellpadding="0" align="center" width="100%">
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### 🔹 Zener Maritime Solutions
-**Software Development Engineer Intern**  
-*May 2025 – Nov 2025*
+<h3>🔹 Zener Maritime Solutions</h3>
+<b>Software Development Engineer Intern</b><br>
+<i>May 2025 – Nov 2025</i>
 
-- Full-stack modules for naval inspection systems
-- **30% improvement** in UI performance
-- Secure REST APIs
-- Agile/Scrum environment
+<p align="left">
+• Full-stack modules for naval inspection systems<br>
+• <b>30% improvement</b> in UI performance<br>
+• Secure REST APIs<br>
+• Agile/Scrum environment
+</p>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### 🔹 ISRO (NARL)
-**Research Intern**  
-*Nov 2024 – Jan 2025*
+<h3>🔹 ISRO (NARL)</h3>
+<b>Research Intern</b><br>
+<i>Nov 2024 – Jan 2025</i>
 
-- Automated radar data pipelines
-- **70% reduction** in processing time
-- Python analytics engine
-- Real-world data processing
+<p align="left">
+• Automated radar data pipelines<br>
+• <b>70% reduction</b> in processing time<br>
+• Python analytics engine<br>
+• Real-world data processing
+</p>
 
 </td>
 
@@ -252,29 +221,33 @@ Currently working on advanced projects in:
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### 🔹 Rupeeflo
-**Software Developer Intern**  
-*May 2025 – Nov 2025*
+<h3>🔹 Rupeeflo</h3>
+<b>Software Developer Intern</b><br>
+<i>May 2025 – Nov 2025</i>
 
-- Production development workflows
-- Scalable architecture design
-- Code quality focus
-- Real-world engineering
+<p align="left">
+• Production development workflows<br>
+• Scalable architecture design<br>
+• Code quality focus<br>
+• Real-world engineering
+</p>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### 🔹 DataPlay
-**UI/UX Intern**  
-*Oct 2024 – Nov 2024*
+<h3>🔹 DataPlay</h3>
+<b>UI/UX Intern</b><br>
+<i>Oct 2024 – Nov 2024</i>
 
-- Figma design & prototyping
-- User experience optimization
-- Visual design consistency
-- Design systems work
+<p align="left">
+• Figma design & prototyping<br>
+• User experience optimization<br>
+• Visual design consistency<br>
+• Design systems work
+</p>
 
 </td>
 
@@ -283,33 +256,33 @@ Currently working on advanced projects in:
 </table>
 
 <p align="center">
-  <b>GirlScript Summer of Code</b> | Ranked <b>270 out of 27,000+</b> participants
+  <b>🎓 GirlScript Summer of Code</b><br>
+  <i>May 2024 – Aug 2024</i><br>
+  Ranked <b>270 out of 27,000+</b> participants
 </p>
 
-<!-- Divider -->
 <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg" alt="divider" />
 
-<table width="100%" border="0" cellspacing="10" cellpadding="0">
+<table border="0" cellspacing="20" cellpadding="0" align="center" width="100%">
 <tr>
 
 <!-- LEFT: COLLABORATION -->
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
 <h2>🤝 Collaboration</h2>
 
-I'm open to working on:
-
-<ul>
-  <li>Full-stack product development</li>
-  <li>System design challenges</li>
-  <li>Open source projects</li>
-  <li>Scalable applications</li>
-</ul>
+<p align="left">
+I'm open to working on:<br><br>
+• Full-stack product development<br>
+• System design challenges<br>
+• Open source projects<br>
+• Scalable applications
+</p>
 
 </td>
 
 <!-- MIDDLE: INTERESTS -->
-<td width="34%" align="center" valign="middle">
+<td width="33%" valign="top" align="center">
 
 <h2>🎯 Interests</h2>
 
@@ -335,11 +308,13 @@ clean code
 <a href="https://www.ayushrskiaa.tech/">
   <img src="https://img.shields.io/badge/Portfolio-ayushrskiaa.tech-36BCF7?style=for-the-badge&logo=google-chrome" alt="Portfolio link">
 </a>
+
 <br><br>
 
 <a href="mailto:ayushrskiaa@gmail.com">
   <img src="https://img.shields.io/badge/email-ayushrskiaa@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email contact link">
 </a>
+
 <br><br>
 
 <a href="https://www.linkedin.com/in/ayush-kumar-iiitm/">
@@ -351,7 +326,6 @@ clean code
 </tr>
 </table>
 
-<!-- Divider -->
 <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg" alt="divider" />
 
 <p align="center">
@@ -367,12 +341,11 @@ Star ⭐ the repos if they helped you!
 </p>
 
 <p align="center">
-  <a href="https://github.com/ayushrskiaa">View My GitHub</a> ·
-  <a href="https://www.ayushrskiaa.tech/">Visit Portfolio</a> ·
+  <a href="https://github.com/ayushrskiaa">View My GitHub</a> · 
+  <a href="https://www.ayushrskiaa.tech/">Visit Portfolio</a> · 
   <a href="https://www.linkedin.com/in/ayush-kumar-iiitm/">Connect on LinkedIn</a>
 </p>
 
-<!-- Footer Wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" alt="Profile footer wave"/>
 </p>

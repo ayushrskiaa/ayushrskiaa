@@ -13,7 +13,7 @@
 
 <p align="center">
 <samp>
-「 Full-Stack Engineer building scalable applications, optimized systems, and production-ready solutions 」  
+「 Software Development Engineer building scalable applications, optimized systems, and production-ready solutions 」  
 </samp>
 </p>
 

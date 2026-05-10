@@ -61,13 +61,13 @@ Pre-final year undergraduate at <b>IIIT Manipur</b>, passionate about building <
 
 <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg" alt="divider" />
 
-<h1 align="center">🛠 Technologies, Projects & Focus</h1>
+<h1 align="center">🛠 Technologies & Focus</h1>
 
 <table border="0" cellspacing="20" cellpadding="0" align="center" width="100%">
 <tr>
 
 <!-- LEFT: TECHNOLOGIES -->
-<td width="33%" valign="top" align="center">
+<td width="50%" valign="top" align="center">
 
 <h3>💻 Technologies</h3>
 <br>
@@ -107,40 +107,8 @@ Pre-final year undergraduate at <b>IIIT Manipur</b>, passionate about building <
 
 </td>
 
-<!-- MIDDLE: PROJECTS -->
-<td width="33%" valign="top" align="center">
-
-<h3>🚀 Featured Projects</h3>
-<br>
-
-<p align="center" style="margin-bottom: 12px;">
-  <b>🍔 Restaurant Management</b><br>
-  <small>Full-stack MERN</small><br>
-  <a href="https://restaurant-reservation-tau.vercel.app/">View →</a>
-</p>
-
-<p align="center" style="margin-bottom: 12px;">
-  <b>🏨 Hotel Booking UI</b><br>
-  <small>React + Tailwind</small><br>
-  <a href="https://nature-s-heaven.vercel.app/">View →</a>
-</p>
-
-<p align="center" style="margin-bottom: 12px;">
-  <b>📰 News Platform</b><br>
-  <small>React + News API</small><br>
-  <a href="https://github.com/ayushrskiaa/TrendsAffair">View →</a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ayushrskiaa?tab=repositories">
-    <img src="https://img.shields.io/badge/See%20All%20Projects-36BCF7?style=for-the-badge" alt="All projects" />
-  </a>
-</p>
-
-</td>
-
 <!-- RIGHT: FOCUS -->
-<td width="33%" valign="top" align="center">
+<td width="50%" valign="top" align="center">
 
 <h3>📚 Current Focus</h3>
 <br>

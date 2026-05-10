@@ -198,54 +198,6 @@ Pre-final year undergraduate at <b>IIIT Manipur</b>, passionate about building <
 <!-- Divider -->
 <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg" alt="divider" />
 
-# 🚀 Featured Projects
-
-<table border="0" cellspacing="10" cellpadding="0">
-<tr>
-<td width="50%" valign="top">
-
-### 🍔 Restaurant Management System
-**Full-Stack MERN Platform**
-
-Building a complete food ordering and restaurant management solution with:
-- Real-time order tracking
-- Phone-based authentication
-- Database optimization (**30% faster**)
-- Scalable backend architecture
-
-[🔗 Live Demo](https://restaurant-reservation-tau.vercel.app/)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏨 Hotel Booking UI
-**Modern Frontend Showcase**
-
-Beautiful, responsive hotel booking interface featuring:
-- Reusable component architecture
-- Search & filtering system
-- Booking workflow
-- Mobile-first design
-
-[🔗 Live Demo](https://nature-s-heaven.vercel.app/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📰 TrendsAffair News Platform
-**Real-time News Aggregator**
-
-Categorized news platform with:
-- Real-time API integration
-- Category-based filtering
-- Smooth user experience
-- Component-based architecture
-
-[🔗 GitHub Repo](https://github.com/ayushrskiaa/TrendsAffair)
-
-</td>
 <td width="50%" valign="top">
 
 ### ⚡ More Projects Coming Soon

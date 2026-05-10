@@ -1,249 +1,426 @@
-<div align="center">
-  
-<!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;Systems+Architect;Problem+Solver;Building+Scalable+Solutions" alt="Typing SVG" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Ayush%20Kumar&fontSize=70&animation=twinkling" alt="Ayush Kumar profile header" />
+</p>
 
-<br />
+<!-- Title -->
+<h3 align="center">
+    <samp>
+        &gt; Hey There!, I am
+        <b><a target="_blank" href="https://www.linkedin.com/in/ayush-kumar-iiitm/">Ayush Kumar</a></b>
+    </samp>
+</h3>
 
-<!-- Brief Introduction -->
-Crafting elegant solutions at the intersection of **frontend excellence**, **robust backends**, and **scalable systems**.
+<br>
 
-Transforming ideas into production-grade applications.
+<p align="center">
+<samp>
+「 Full-Stack Engineer building scalable applications, optimized systems, and production-ready solutions 」  
+</samp>
+</p>
 
-<br />
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Full-Stack+Engineer;Building+Scalable+Applications;System+Design+%26+Architecture;Backend+%7C+Frontend+%7C+DevOps"
+    alt="Typing SVG"
+  />
+</p>
 
----
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHl0ZWxhN3hzYzEwdGxvNXg1YW94dGRxNjAxaWJ3OWx3MGQ5cGY1OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QTfaBIGirse4/giphy.gif" width="450" alt="Animated web development visual">
+</p>
 
-</div>
+<!-- Divider -->
+<img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg" alt="divider" />
 
-<!-- Main Content -->
+<!-- System Access -->
+<p align="center">
+  <h2>🗂️ Quick Navigation</h2>
+</p>
 
-## 🗂️ Quick Navigation
+<p align="center">
+  <a href="#-technologies">
+    <img width="32%" src="https://img.shields.io/badge/💻%20Technologies-View%20Stack-36BCF7?style=for-the-badge" alt="Technologies" />
+  </a>
+  <a href="#-featured-projects">
+    <img width="32%" src="https://img.shields.io/badge/🚀%20Projects-View%20Work-36BCF7?style=for-the-badge" alt="Projects" />
+  </a>
+  <a href="#-experience">
+    <img width="32%" src="https://img.shields.io/badge/💼%20Experience-View%20Journey-36BCF7?style=for-the-badge" alt="Experience" />
+  </a>
+</p>
 
-<div align="center">
+<!-- Divider -->
+<img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg" alt="divider" />
 
-| 🚀 | 💻 | 📊 |
-|:--:|:--:|:--:|
-| **[Featured Projects](#-featured-projects)** | **[Tech Stack](#-tech-stack)** | **[GitHub Stats](#-github-insights)** |
-| Explore my best work | Tools & technologies | Code contributions |
+<!-- About Section -->
+<h2 align="center">🎯 About Me</h2>
 
-</div>
+<p align="center">
+Pre-final year undergraduate at <b>IIIT Manipur</b>, passionate about building <b>full-stack applications</b> that scale. I thrive at the intersection of <b>frontend excellence</b>, <b>robust backend systems</b>, and <b>production-ready infrastructure</b>.
+</p>
 
----
+<p align="center">
+<b>Core Expertise:</b>
+</p>
 
-## 🎯 About Me
+<p align="center">
+🎨 <b>Frontend</b> - React, Next.js, Modern UI/UX | ⚙️ <b>Backend</b> - Node.js, System Design, Databases | 🏗️ <b>DevOps</b> - Docker, AWS, CI/CD
+</p>
 
-I'm a **pre-final year undergraduate at IIIT Manipur** with a passion for building full-stack applications that matter. 
+<!-- Divider -->
+<img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg" alt="divider" />
 
-My expertise spans:
-- 🎨 **Frontend** - Building responsive, performant user interfaces with React & modern frameworks
-- ⚙️ **Backend** - Designing scalable server architectures, APIs, and databases  
-- 🏗️ **Systems** - Understanding distributed systems, databases, and infrastructure at scale
+# 🛠 Technologies, Projects, and Experience
 
-I believe in **writing code that works in production**, not just locally.
+<table border="0" cellspacing="10" cellpadding="0">
+<tr>
 
----
+<!-- LEFT: TOOLS -->
+<td width="420" valign="top" align="center">
 
-## 💻 Tech Stack
+<h3>💻 Technologies</h3>
+<br>
 
-<div align="center">
+<table align="center" cellspacing="0" cellpadding="6">
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="32"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="32"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="32"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="32"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="32"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32"/></td>
+  </tr>
+</table>
 
-### Languages
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+</td>
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<!-- PROJECTS -->
+<td width="260" valign="top" align="center">
 
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<h3>🚀 Featured Projects</h3>
+<br>
 
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon%20AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+<a href="#-featured-projects">
+  <img src="https://img.shields.io/badge/View%20All%20Projects-36BCF7?style=for-the-badge&logoColor=white" width="220" alt="Projects navigation">
+</a>
 
-</div>
+<br><br>
 
----
+<p align="center">
+  <b>🍔 Restaurant Management</b><br>
+  Full-stack MERN<br>
+  <a href="https://restaurant-reservation-tau.vercel.app/">View →</a>
+</p>
 
-## 🚀 Featured Projects
+<p align="center">
+  <b>🏨 Hotel Booking UI</b><br>
+  React + Tailwind<br>
+  <a href="https://nature-s-heaven.vercel.app/">View →</a>
+</p>
 
-<div align="center">
+<p align="center">
+  <b>📰 News Platform</b><br>
+  React + News API<br>
+  <a href="https://github.com/ayushrskiaa/TrendsAffair">View →</a>
+</p>
 
-### 🍔 Food Ordering & Restaurant Management System
-**Full-Stack Platform** | `MERN Stack`
+</td>
 
-[Live Demo](https://restaurant-reservation-tau.vercel.app/) • [Source Code](https://github.com/ayushrskiaa)
+<!-- LEARNING & GOALS -->
+<td width="260" valign="top" align="center">
 
-End-to-end food ordering platform with real-time order tracking, phone-based authentication, and optimized database performance. Handles complex business logic for restaurant operations at scale.
+<h3>📚 Current Focus</h3>
+<br>
 
-**Key Features:** Real-time updates • Phone OTP Auth • Order Management • Payment Integration • Performance Optimization
+<p align="center">
+  <b>🎓 Learning</b><br>
+  Advanced System Design<br>
+  Distributed Systems<br>
+  ML Infrastructure<br>
+</p>
 
----
+<p align="center">
+  <b>🎯 Goals</b><br>
+  Master production-scale apps<br>
+  Contribute to open source<br>
+  Build impactful products<br>
+</p>
 
-### 🏨 Hotel Booking Website
-**Frontend Showcase** | `React · Tailwind CSS`
+</td>
 
-[Live Demo](https://nature-s-heaven.vercel.app/) • [Source Code](https://github.com/ayushrskiaa)
+</tr>
+</table>
 
-Beautiful, responsive hotel booking interface demonstrating clean architecture and reusable component design patterns. Focus on seamless user experience and modern UI/UX principles.
+<!-- Divider -->
+<img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" alt="divider" />
 
-**Key Features:** Responsive Design • Advanced Search • Booking System • Component Architecture • Modern UI/UX
+## 📊 Vital Statistics
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushrskiaa&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushrskiaa&theme=radical" alt="GitHub profile contribution summary" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayushrskiaa&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Profile Views" />
+</p>
+
+<!-- Divider -->
+<img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg" alt="divider" />
+
+# 🚀 Featured Projects
+
+<table border="0" cellspacing="10" cellpadding="0">
+<tr>
+<td width="50%" valign="top">
+
+### 🍔 Restaurant Management System
+**Full-Stack MERN Platform**
+
+Building a complete food ordering and restaurant management solution with:
+- Real-time order tracking
+- Phone-based authentication
+- Database optimization (**30% faster**)
+- Scalable backend architecture
+
+[🔗 Live Demo](https://restaurant-reservation-tau.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏨 Hotel Booking UI
+**Modern Frontend Showcase**
+
+Beautiful, responsive hotel booking interface featuring:
+- Reusable component architecture
+- Search & filtering system
+- Booking workflow
+- Mobile-first design
+
+[🔗 Live Demo](https://nature-s-heaven.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 📰 TrendsAffair News Platform
-**Real-time Data App** | `React · News API`
+**Real-time News Aggregator**
 
-[View on GitHub](https://github.com/ayushrskiaa/TrendsAffair) • [Read More](#)
+Categorized news platform with:
+- Real-time API integration
+- Category-based filtering
+- Smooth user experience
+- Component-based architecture
 
-Real-time news aggregation platform with categorized content and smooth API integration. Demonstrates component-based architecture and attention to user experience details.
+[🔗 GitHub Repo](https://github.com/ayushrskiaa/TrendsAffair)
 
-**Key Features:** Real-time Updates • Content Categorization • API Integration • Component Design • Smooth UX
+</td>
+<td width="50%" valign="top">
 
-</div>
+### ⚡ More Projects Coming Soon
+**Building & Shipping**
 
----
+Currently working on advanced projects in:
+- System design challenges
+- Open source contributions
+- Production-scale applications
 
-## 💼 Professional Experience
+[🔗 See All](https://github.com/ayushrskiaa?tab=repositories)
 
-<table>
+</td>
+</tr>
+</table>
+
+<!-- Divider -->
+<img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" alt="divider" />
+
+# 💼 Experience
+
+<table border="0" cellspacing="10" cellpadding="0">
 <tr>
-<td width="50%">
 
-### Zener Maritime Solutions
+<td width="50%" valign="top">
+
+### 🔹 Zener Maritime Solutions
 **Software Development Engineer Intern**  
 *May 2025 – Nov 2025*
 
 - Full-stack modules for naval inspection systems
-- **30% reduction** in UI load times
-- Secure REST APIs for real-time data
-- Agile development environment
+- **30% improvement** in UI performance
+- Secure REST APIs
+- Agile/Scrum environment
 
 </td>
-<td width="50%">
 
-### ISRO (NARL)
+<td width="50%" valign="top">
+
+### 🔹 ISRO (NARL)
 **Research Intern**  
 *Nov 2024 – Jan 2025*
 
 - Automated radar data pipelines
-- **70% reduction** in manual processing
-- Python-based analytics engine
+- **70% reduction** in processing time
+- Python analytics engine
 - Real-world data processing
 
 </td>
+
 </tr>
-</table>
 
-<table>
 <tr>
-<td width="50%">
 
-### Rupeeflo
+<td width="50%" valign="top">
+
+### 🔹 Rupeeflo
 **Software Developer Intern**  
 *May 2025 – Nov 2025*
 
-- Production-level development
-- Scalable feature architecture
-- Code quality & maintainability
-- Real-world workflows
+- Production development workflows
+- Scalable architecture design
+- Code quality focus
+- Real-world engineering
 
 </td>
-<td width="50%">
 
-### DataPlay
+<td width="50%" valign="top">
+
+### 🔹 DataPlay
 **UI/UX Intern**  
 *Oct 2024 – Nov 2024*
 
-- Figma prototyping & design
-- User research & testing
-- Visual consistency
-- Design systems
+- Figma design & prototyping
+- User experience optimization
+- Visual design consistency
+- Design systems work
 
 </td>
+
+</tr>
+
+</table>
+
+<p align="center">
+  <b>GirlScript Summer of Code</b> | Ranked <b>270 out of 27,000+</b> participants
+</p>
+
+<!-- Divider -->
+<img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg" alt="divider" />
+
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+<tr>
+
+<!-- LEFT: COLLABORATION -->
+<td width="33%" valign="top">
+
+<h2>🤝 Collaboration</h2>
+
+I'm open to working on:
+
+<ul>
+  <li>Full-stack product development</li>
+  <li>System design challenges</li>
+  <li>Open source projects</li>
+  <li>Scalable applications</li>
+</ul>
+
+</td>
+
+<!-- MIDDLE: INTERESTS -->
+<td width="34%" align="center" valign="middle">
+
+<h2>🎯 Interests</h2>
+
+<p>
+Building impactful<br>
+production-grade<br>
+applications<br><br>
+
+Solving real-world<br>
+problems through<br>
+clean code
+</p>
+
+</td>
+
+<!-- RIGHT: CONTACT -->
+<td width="33%" valign="top" align="center">
+
+<h2>📫 Contact</h2>
+
+<br>
+
+<a href="https://www.ayushrskiaa.tech/">
+  <img src="https://img.shields.io/badge/Portfolio-ayushrskiaa.tech-36BCF7?style=for-the-badge&logo=google-chrome" alt="Portfolio link">
+</a>
+<br><br>
+
+<a href="mailto:ayushrskiaa@gmail.com">
+  <img src="https://img.shields.io/badge/email-ayushrskiaa@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email contact link">
+</a>
+<br><br>
+
+<a href="https://www.linkedin.com/in/ayush-kumar-iiitm/">
+  <img src="https://img.shields.io/badge/LinkedIn-ayush--kumar-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn profile link">
+</a>
+
+</td>
+
 </tr>
 </table>
 
-<div align="center">
+<!-- Divider -->
+<img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg" alt="divider" />
 
-**GirlScript Summer of Code** | *May 2024 – Aug 2024*  
-Ranked **270 out of 27,000+** participants
+<p align="center">
+⚡ Building scalable full-stack applications and production-ready systems
+</p>
 
-</div>
+<p align="center">
+💡 <i>Consistency over motivation. Code over excuses.</i>
+</p>
 
----
+<p align="center">
+Star ⭐ the repos if they helped you!
+</p>
 
-## 📊 GitHub Insights
+<p align="center">
+  <a href="https://github.com/ayushrskiaa">View My GitHub</a> ·
+  <a href="https://www.ayushrskiaa.tech/">Visit Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/ayush-kumar-iiitm/">Connect on LinkedIn</a>
+</p>
 
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushrskiaa&show_icons=true&hide_border=true&theme=default&bg_color=0d1117&text_color=c9d1d9&title_color=36BCF7&icon_color=36BCF7)](https://github.com/ayushrskiaa)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushrskiaa&layout=compact&hide_border=true&theme=default&bg_color=0d1117&text_color=c9d1d9&title_color=36BCF7)](https://github.com/ayushrskiaa)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushrskiaa&background=0d1117&stroke=36BCF7&ring=36BCF7&fire=FFA500&currStreakNum=c9d1d9&currStreakLabel=36BCF7&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9)](https://github.com/ayushrskiaa)
-
-</div>
-
----
-
-## 🎯 Open to Opportunities
-
-I'm actively seeking collaborations on:
-
-- **🚀 Full-stack product development** with real-world impact and scale
-- **⚙️ System design challenges** that push engineering boundaries  
-- **📚 Open source contributions** to meaningful projects and communities
-- **💼 Internships & roles** focused on growth, learning, and building things that matter
-
-**Let's build something great together!**
-
----
-
-## 🔗 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-kumar-iiitm)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://www.ayushrskiaa.tech)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushrskiaa)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA500?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ayushrskiaa/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushrskiaa@gmail.com)
-
-</div>
-
----
-
-## 🎓 Currently Learning & Focusing
-
-- Advanced system design patterns and distributed architectures
-- Deepening expertise in scalable backend infrastructure  
-- Mastering algorithmic problem-solving at a professional level
-- Exploring modern DevOps practices and cloud-native applications
-
----
-
-<div align="center">
-
-### 💡 Philosophy
-
-> **Consistency beats talent. Intentional practice builds expertise.**
-
-*The goal isn't perfection—it's progress. Every line of code is a step forward.*
-
----
-
-<img src="https://komarev.com/ghpvc/?username=ayushrskiaa&style=flat-square&color=36BCF7" alt="Profile Views" />
-
-</div>
+<!-- Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" alt="Profile footer wave"/>
+</p>

@@ -1,3 +1,5 @@
+<div style="background: url('https://static.vecteezy.com/system/resources/thumbnails/000/536/606/small/paper7-01.jpg') center/cover fixed no-repeat; min-height: 100vh; width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; padding: 40px 20px;">
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Ayush%20Kumar&fontSize=70&animation=twinkling" alt="Ayush Kumar profile header" />
 </p>
@@ -317,3 +319,5 @@ Star ⭐ the repos if they helped you!
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" alt="Profile footer wave"/>
 </p>
+
+</div>

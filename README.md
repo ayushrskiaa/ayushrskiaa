@@ -154,7 +154,7 @@ Pre-final year undergraduate at <b>IIIT Manipur</b>, passionate about building <
 </td> -->
 
 <!-- LEARNING & GOALS -->
-<td width="260" valign="top" align="center">
+<td width="420" valign="top" align="center">
 
 <h3>📚 Current Focus</h3>
 <br>

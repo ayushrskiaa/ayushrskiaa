@@ -15,7 +15,7 @@
 
 <p align="center">
 <samp>
-「 Full-Stack Engineer building scalable applications, optimized systems, and production-ready solutions 」  
+「 Software Development Engineer building scalable applications, optimized systems, and production-ready solutions 」  
 </samp>
 </p>
 
@@ -319,5 +319,4 @@ Star ⭐ the repos if they helped you!
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" alt="Profile footer wave"/>
 </p>
-
 </div>
